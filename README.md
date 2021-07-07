@@ -11,8 +11,10 @@ Need to add syllabus.
 
 ### Assignment Descriptions
 (More will be added as the course progresses)
+
 **Note that these need to be updated**
-[Mini Project 1 (updated 2019-08-02)](https://github.com/kristopherkyle/Corpus-Methods-Intro/blob/master/Course-Materials/Mini%20Project%201_2019_08_02.docx?raw=true)
+
+[Mini Project 1](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/blob/main/Assignments/Mini%20Project%201_20210707.pdf)
 
 [Mini Project 2](https://github.com/kristopherkyle/Corpus-Methods-Intro/blob/master/Course-Materials/Mini%20Project%202.docx?raw=true)
 
