@@ -10,25 +10,20 @@ This page will be used to disseminate course materials.
 Need to add syllabus.
 
 ### Assignment Descriptions
-(More will be added as the course progresses)
 
-**Note that these need to be updated**
-
-[Mini Project 1](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/blob/main/Assignments/Mini%20Project%201_20210707.pdf?raw=true)
+[Mini Project 1](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%201_20210707.pdf)
 
 [Mini Project 2](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%202.pdf)
 
-[Mini Project 3](https://github.com/kristopherkyle/Corpus-Methods-Intro/blob/master/Course-Materials/Mini%20Project%203.docx?raw=true)
+[Mini Project 3](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%203.pdf)
 
-[Mini Project 4](https://github.com/kristopherkyle/Corpus-Methods-Intro/blob/master/Course-Materials/Mini%20Project%204.docx?raw=true)
+[Mini Project 4](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%204.pdf)
 
 ### Helpful links and tutorials
-(this will be updated as the course progresses)
 
 [Laurence Anthony's AntConc Page](https://www.laurenceanthony.net/software/antconc/)
 
 ### Corpora and Other Data
-(this will be updated as the course progresses)
 
 <a href="http://ota.ox.ac.uk/desc/2553" target="_blank">BNC ("Baby" Version - 4 million word sample)</a>
 
