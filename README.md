@@ -14,9 +14,9 @@ Need to add syllabus.
 
 **Note that these need to be updated**
 
-[Mini Project 1](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/blob/main/Assignments/Mini%20Project%201_20210707.pdf)
+[Mini Project 1](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/blob/main/Assignments/Mini%20Project%201_20210707.pdf?raw=true)
 
-[Mini Project 2](https://github.com/kristopherkyle/Corpus-Methods-Intro/blob/master/Course-Materials/Mini%20Project%202.docx?raw=true)
+[Mini Project 2](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%202.pdf)
 
 [Mini Project 3](https://github.com/kristopherkyle/Corpus-Methods-Intro/blob/master/Course-Materials/Mini%20Project%203.docx?raw=true)
 
