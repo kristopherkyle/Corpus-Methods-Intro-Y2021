@@ -4,20 +4,8 @@ Welcome to the simple webpage for the course Introduction to Methods in Corpus L
 
 This page will be used to disseminate course materials.
 
-**Note that this page is currently under construction!**
-
-### Class Schedule
+### Class Schedule and syllabus
 [Class Schedule](Syllabi/schedule.md)
-
-### Assignment Descriptions
-
-[Mini Project 1](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%201_20210707.pdf)
-
-[Mini Project 2](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%202.pdf)
-
-[Mini Project 3](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%203.pdf)
-
-[Mini Project 4](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%204.pdf)
 
 ### Helpful links and tutorials
 
@@ -41,7 +29,7 @@ This page will be used to disseminate course materials.
 
 ### Python Resources
 
-[Kris' Python Tutorials]() **Note that these need to be updated**
+Kris' Python Tutorials (to be added)
 
 <a href="https://www.anaconda.com/distribution/#download-section" target="_blank">Anaconda Version of Python 3</a>
 
@@ -50,6 +38,3 @@ This page will be used to disseminate course materials.
 [Description of spaCy tags](https://github.com/kristopherkyle/Corpus-Methods-Intro/blob/master/Course-Materials/spaCy_tags.xlsx?raw=true)
 
 [Think Python Book (.pdf) - helpful reference for Python functions](https://github.com/kristopherkyle/Corpus-Methods-Intro/blob/master/Course-Materials/thinkpython.pdf?raw=true)
-
-### Course Presentations
-(this will be updated as the course progresses)

@@ -1,6 +1,18 @@
 # Syllabus
 (updated 2021-07-09)
 
+## Readings
+
+The readings for this course will primarily include research articles and book chapters curated by the professor. All readings will be made available online.
+
+We will also reference the (somewhat technical) book on corpus linguistics by Anatol Stefanowitsch:
+
+Corpus Linguistics. Anatol Stefanowitsch (2020). Language Science Press: Berlin. Paper copies available on Amazon; [Electronic version freely available](https://refubium.fu-berlin.de/bitstream/fub188/27138/1/final.pdf).
+
+## Other Materials
+
+This is explicitly a hands-on course, and much of our time in class will be spent conducting computer-based analyses. A computer will be required to complete the corpus analyses (these cannot be completed on an iPad or iPhone).
+
 ## Major Assignments
 
 | Project Name | Skills/Topics | Expected Length | Percent of Grade | Due |
@@ -12,6 +24,8 @@
 | [Mini-Project 4](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%204.pdf) | Application Project | 3000-4000 words | 30% | |
 
 ## Course Schedule
+
+(This will be updated as the course progresses)
 
 | Class Session | Topics | Activities | Readings and Tutorials | Assignments Due | After Class Tutorials |
 |-----------------|----------------|----------------|----------------|----------------|----------------|
