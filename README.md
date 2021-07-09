@@ -8,6 +8,7 @@ This page will be used to disseminate course materials.
 
 ### Syllabus
 Need to add syllabus.
+[test](Syllabi/test.md)
 
 ### Assignment Descriptions
 
