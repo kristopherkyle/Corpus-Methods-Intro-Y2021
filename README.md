@@ -6,9 +6,8 @@ This page will be used to disseminate course materials.
 
 **Note that this page is currently under construction!**
 
-### Syllabus
-Need to add syllabus.
-[test](Syllabi/test.md)
+### Class Schedule
+[Class Schedule](Syllabi/schedule.md)
 
 ### Assignment Descriptions
 
