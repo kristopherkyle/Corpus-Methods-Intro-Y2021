@@ -13,6 +13,9 @@ Corpus Linguistics. Anatol Stefanowitsch (2020). Language Science Press: Berlin.
 
 This is explicitly a hands-on course, and much of our time in class will be spent conducting computer-based analyses. A computer will be required to complete the corpus analyses (these cannot be completed on an iPad or iPhone).
 
+## Class Presentations
+Power point presentations will primarily be used to structure the class (not deliver much content). Nonetheless, all presentation slides will be available after class [here](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/tree/main/Presentations).
+
 ## Major Assignments
 
 | Project Name | Skills/Topics | Expected Length | Percent of Grade | Due |
