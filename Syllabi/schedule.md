@@ -24,7 +24,7 @@ Power point presentations will primarily be used to structure the class (not del
 | [Mini-Project 2](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%202.pdf) | Collocation and n-gram analysis | 1250-1500 words | 20% | Thursday, July 22nd |
 | Mini-Project 4 Outline | Rough project plan | 300-500 words | 5% | Monday, July 26th |
 | [Mini-Project 3](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%203.pdf) | Corpus tagging and analysis | 1250-1500 words | 20% | Thursday, July 29th |
-| [Mini-Project 4](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%204.pdf) | Application Project | 3000-4000 words | 30% | |
+| [Mini-Project 4](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%204.pdf) | Application Project | 3000-4000 words | 30% | Monday, August 2nd by 11:59pm |
 
 ## Course Schedule
 
@@ -40,8 +40,8 @@ Power point presentations will primarily be used to structure the class (not del
 | W2.2 Tuesday 7/20/2021 | Corpus basics with Python | Tokenizing, lemmatizing, and creating frequency lists |[Python Tutorials 3 and 4](https://kristopherkyle.github.io/corpus-analysis-python/py_index.html)| Exercises from Tutorials 3 and 4 | [Python Tutorials 5 and 6](https://kristopherkyle.github.io/corpus-analysis-python/py_index.html), [Python Tutorial 5 Video](https://uoregon.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=553d19fb-47b7-4515-9b83-ac5301166059), [Python Tutorial 6 Video](https://uoregon.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca81197f-6599-4f8c-96d9-ac550146783e) |
 | W2.3 Thursday 7/22/2021 | Concordancing and collocations with Python | Advanced concordancing and collocations with Python | [Python Tutorials 5 and 6](https://kristopherkyle.github.io/corpus-analysis-python/py_index.html) | [Mini-Project 2](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%202.pdf); Exercises from Python Tutorials 5 and 6 | [Python Tutorial 7](https://kristopherkyle.github.io/corpus-analysis-python/Python_Tutorial_7.html), Python Tutorial 7 Videos: [Part 1](https://uoregon.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d28e92a-d48e-425b-974c-ac5a01810e66) and [Part 2](https://uoregon.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c340246-eb7c-4746-b5bf-ac5a0185ac1d) |
 | W2.4 Friday 7/23/2021 | Advanced keyness analysis with Python | Extracting key words and n-grams using Python| [Python Tutorial 7](https://kristopherkyle.github.io/corpus-analysis-python/Python_Tutorial_7.html) | Exercises from Python Tutorial 7 | TBD |
-| W3.1 Monday 7/26/2021 | Web scraping with Python| | | Mini-Project 4 Outline | |
-| W3.2 Tuesday 7/27/2021 | Annotating texts with Python | | | | |
-| W3.3 Thursday 7/29/2021 | Analyzing learner corpora with Python (Part 1) | | | [Mini-Project 3](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%203.pdf) | |
+| W3.1 Monday 7/26/2021 | Web scraping with Python (part 1)| | | Mini-Project 4 Outline | |
+| W3.2 Tuesday 7/27/2021 | Web scraping with Python (part 2) | | | | |
+| W3.3 Thursday 7/29/2021 | Analyzing learner corpora with Python (Part 1) | [Python Tutorial 9](https://kristopherkyle.github.io/corpus-analysis-python/Python_Tutorial_9.html)| | [Mini-Project 3](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%203.pdf) | |
 | W3.4 Friday 7/30/2021 | Analyzing learner corpora with Python (Part 2); Project Presentations | | | | |
 | TBD | Mini Project 4 Due | | | [Mini-Project 4](https://github.com/kristopherkyle/Corpus-Methods-Intro-Y2021/raw/main/Assignments/Mini%20Project%204.pdf) | |
